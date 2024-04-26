@@ -14,10 +14,16 @@ public class CharacterController : MonoBehaviour
     void Update()
     {
         Move();
+        Jump();
     }
 
     private void Move()
     {
         //Move
+    }
+
+    private void Jump()
+    {
+        //Jump
     }
 }
