@@ -17,6 +17,7 @@ public class CharacterController : MonoBehaviour
         Jump();
         Crawl();
         //el pepe
+        Shoot();
     }
 
     private void Move()
@@ -30,5 +31,10 @@ public class CharacterController : MonoBehaviour
     private void Jump()
     {
         //Jump
+    }
+
+    private void Shoot()
+    {
+        //pium pium no patrisio qu� pena :(
     }
 }
