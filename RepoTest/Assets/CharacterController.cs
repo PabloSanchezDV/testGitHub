@@ -15,13 +15,18 @@ public class CharacterController : MonoBehaviour
     {
         Move();
         Jump();
+        Crawl();
+        //el pepe
     }
 
     private void Move()
     {
         //Move
     }
-
+    private void Crawl()
+    {
+        //Crawl
+    }
     private void Jump()
     {
         //Jump
